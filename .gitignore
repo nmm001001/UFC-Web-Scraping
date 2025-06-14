@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Editor-specific files
+.vscode/
+.idea/
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables and secrets
+.env
+
+# Selenium browser drivers (just in case)
+chromedriver.exe
+chromedriver.log
+
+# Cache and logs
+*.log
+.cache/
+*.sqlite3
+
+# PyInstaller output
+dist/
+build/
+*.spec
+
+# Jupyter
+.ipynb_checkpoints
+
+# Packaging
+*.egg-info/
+.eggs/
